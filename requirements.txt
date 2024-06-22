@@ -1,7 +1,7 @@
 openai
 langchain
 streamlit
-python-dotenv
+python-dotenv  # Python-dotenv reads key-value pairs from a .env file and can set them as environment variables., we use this library to read the open AI api key secretly rather than exposing it to public it helps us to read the key in secrete and than after mentioning the key value pair of openai key in .env file makesure add this .env file to .gitiognore so it wont get push to github
 PyPDF2
 
 
