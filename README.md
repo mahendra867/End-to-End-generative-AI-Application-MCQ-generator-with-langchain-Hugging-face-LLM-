@@ -1,6 +1,12 @@
 # generative-MCQ-generator-with-langchain-OpenAI-LLM
 
-Certainly! Let's delve deeper into the core components of your MCQ Generator project using GenAI:
+Working of an Application
+
+https://github.com/mahendra867/End-to-End-generative-AI-Application-MCQ-generator-with-langchain-Hugging-face-LLM-/assets/95703197/c6fbf40f-f598-40bf-9551-d9fc8f0fccae
+
+
+
+Let's delve deeper into the core components of your MCQ Generator project using GenAI:
 
 ### Core Components
 
