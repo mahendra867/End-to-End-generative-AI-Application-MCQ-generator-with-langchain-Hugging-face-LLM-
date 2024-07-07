@@ -6,7 +6,7 @@ https://github.com/mahendra867/End-to-End-generative-AI-Application-MCQ-generato
 
 
 
-Let's delve deeper into the core components of your MCQ Generator project using GenAI:
+Let's  deeper into the core components of your MCQ Generator project using GenAI:
 
 ### Core Components
 
